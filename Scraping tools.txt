@@ -1,0 +1,35 @@
+# Types of website scrapers
+There’s no one-size-fits-all web scraper. What might work for one user might not work for you and vice versa. They fall into three categories, browser-based or cloud-based, and hybrid.
+
+# Browser-based: These are scrapers that operate from the browser itself, whether that be Chrome, Firefox, or Edge. Browser-based scrapers run locally, your data stays with you so they are more secure with better data privacy.  But they operate from your local IP address, so they are generally more suitable for non-intensive scraper operations. In line with that, these also usually have the most user-friendly UI. 
+‍
+
+# Cloud-based: These scrapers operate from a separate cloud server, securing your local IP from getting blocked. They’re usually more expensive but provide a good option for those interested in high-volume scraping operations. These are also available as downloadable local apps on your desktop.
+‍
+
+# Hybrid: If you can’t decide between the above two, why not just go for a hybrid scraper?! Based on your current use case, these offer both browser- and cloud-based scraping features.
+‍
+
+1) Bardeen.ai : 
+is one of the first AI scrapers. Time and time again, users who scrape data from a webpage (like text, link or image) also add it or edit it further in another web app like Google Sheets, Notion or Airtable. With Bardeen, you can scrape the data you want, and then send it to various web apps automatically, with no code. 
+The Bardeen scraper is capable of more than just extracting data from a website. It can also enrich data from a list of links and monitor a website for changes, along with features like pagination, deep scraping, and click actions. All done with no code. You can create your own scraper templates, send the data to integrated apps, and create automations using the visual automation Builder, like save tweets related to a keyword to Notion or create an email draft using OpenAI!  We hope you’re getting the drift. Here’s a demo of the scraper in action.
+
+2) Instant Data Scraper :
+Most of the web scrapers we’ve talked about build extra and powerful features on top of just scraping. It can be powerful, but also add more complexity to the platform. If your purpose is only to get the data from a web page, Instant Data Scraper is the way to go.
+
+
+3) ParseHub :
+If you’re dedicated to more professional data scraping, then browser-based options don’t work for you. ParseHub might be the way to go. It has no browser extension, only desktop clients on Windows, Mac, and Linux.
+
+
+4) Octoparse :
+If you want something similar to ParseHub, but cheaper, you’ll like Octoparse. Similar to ParseHub, it doesn’t have any web extensions, only desktop clients on Windows and Mac.
+
+5) Byteline :
+Do you want a scraper with a higher focus on automations rather than just plain data? Byteline operates on ‘Flows’ where you can connect various web apps.
+
+6) Grepsr :
+If you’re new to this whole web scraping thing and need a tool that can guide you through the process, you’ll dig Grapsr! It works similarly to all the other web scraper tools we’ve looked at so far
+
+7) ScrapeStorm :
+ScrapeStorm is an AI-powered web scraping tool with a visual, no-code interface. It uses AI to identify lists, tables, and pagination buttons automatically.
